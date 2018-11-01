@@ -2,8 +2,8 @@
 public class Sample {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("ㅎㅇㅎㅇ");
+		System.out.println("앙기모띠");
+
 	}
 
 }
